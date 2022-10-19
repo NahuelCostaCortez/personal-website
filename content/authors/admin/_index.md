@@ -1,7 +1,7 @@
 ---
 title: Nahuel Costa
 role: Machine Learning & AI researcher
-avatar_filename: whatsapp-image-2020-11-17-at-11.21.50-2-.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Prognosis and Health Management
