@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: costanahuel@uniovi.es
+    link: mailto:costanahuel@uniovi.es
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/nahucostacortez
@@ -43,11 +43,9 @@ education:
       institution: University of Oviedo
       year: 2018
 superuser: true
-last_name: Bighetti
+last_name: Costa
 highlight_name: true
-first_name: Alice
+first_name: Nahuel
 email: ""
 ---
 I am a Phd candidate in the Metrology and Modeling Lab in the Department of Computer Science at University of Oviedo. I have a huge passion for making machines learn. My current research focus is building explainable AI models for Prognosis and Health Management and decision-making
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
