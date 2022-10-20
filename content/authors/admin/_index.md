@@ -4,7 +4,7 @@ role: Machine Learning & AI researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Prognosis and Health Management
+  - Prognosis & Health Management
   - Explainable AI
   - RNNs
   - Transformers
@@ -48,4 +48,4 @@ highlight_name: true
 first_name: Nahuel
 email: ""
 ---
-I am a Phd candidate in the Metrology and Modeling Lab in the Department of Computer Science at University of Oviedo. I have a huge passion for making machines learn. My current research focus is building explainable AI models for Prognosis and Health Management and decision-making
+I am a PhD candidate in the Metrology and Modeling Lab in the Department of Computer Science at the University of Oviedo. I have a huge passion for making machines learn. My current research focus is building explainable AI models for Prognosis & Health Management and decision-making.

@@ -23,30 +23,41 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: uploads/certified-peer-reviewer-course-certificate.pdf
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-10-05'
+    description: ''
+    organization: Elsevier
+    organization_url: ''
+    title: Certified Peer Reviewer
+    url: https://researcheracademy.elsevier.com/navigating-peer-review/certified-peer-reviewer-course
+
+  - certificate_url: uploads/certificate_tf.pdf
+    date_end: ''
+    date_start: '2021-06-21'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    organization_url: ''
+    title: Professional Certificate TensorFlow Developer
+    url: 'https://www.coursera.org/professional-certificates/tensorflow-in-practice'
+  
+  - certificate_url: uploads/CAECertificate.pdf
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2021-01-10'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: University of Cambridge
+    organization_url: ''
+    title: Certificate of Advanced English
+    url: https://www.elsevier.com/
+
+  - certificate_url: uploads/reviewer_certificate.pdf
+    date_end: ''
+    date_start: '2020-11-10'
+    description: ''
+    organization: Elsevier
+    organization_url: ''
+    title: Reviewer Certificate 
+    url: https://www.elsevier.com/
 
 design:
   columns: '2'

@@ -8,17 +8,17 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 40
-  - name: Posts
-    url: '#posts'
-    weight: 50
-  - name: Talks
-    url: '#talks'
-    weight: 60
+  #- name: Projects
+  #  url: '#projects'
+  #  weight: 40
+  #- name: Posts
+  #  url: '#posts'
+  #  weight: 50
+  #- name: Talks
+  #  url: '#talks'
+  #  weight: 60
   - name: Contact
     url: '#contact'
     weight: 70

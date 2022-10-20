@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -27,8 +29,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Cardiovascular Diseases
+      tag: FA
+    - name: Aircraft engines
+      tag: Aircraft
+    - name: Lithium-ion batteries
+      tag: Li-ion
     - name: Other
       tag: Demo
 
