@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Here you can [filter publications](./publication/).
+Here you can [filter my publications](./publication/).
 {{% /callout %}}

@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Prognosis & Health Management
   - Explainable AI
-  - RNNs
+  - Variational Autoencoders
   - Transformers
   - Diffusion models
 social:
