@@ -1,50 +1,38 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# [My personal website](https://www.nahuelcosta.com/)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+This project contains the source code of my personal website, developed with Hugo (using the [Hugo Academic Resumé Template](https://academic-demo.netlify.app/)) and deployed using [Netlify](https://www.netlify.com/).
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+The following sections explain in detail how this website was developed and deployed 🚀.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+# 1. Choose a template, create the Github repository and deploy it
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+[Wowchemy](https://wowchemy.com/templates/) has some pretty cool website templates. Choose one and press "Start with _template_name_". After that you will be prompted to a new page, press "Connect to Github" and Netlify will automatically create a new repository on your account and clone the template chosen. [Here](https://wowchemy.com/docs/getting-started/hugo-github-quickstart/) you can see the process step by step.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
+**Alternatively**, you can do this on your own. Just create a new repository and clone the template into it. You can choose to deploy the site either with [Github pages](https://pages.github.com/) or [Netlify](https://www.netlify.com/) (both are great options). 
+- If you choose Github: the name of your repository must be as follows: your-account-name.github.io. That´s it, just open your-account-name.github.io and the template will be deployed.
+- If you choose Netlify: you have to connect Netlify to your Github account and in "Site settings" connect your site to your Github repo.
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+# 2. Modify the website content and preview it locally
+[Here](https://wowchemy.com/docs/getting-started/install-hugo-extended/) you can check how to do it. I did it in windows, the steps are pretty straightforward:
 
-## We ask you, humbly, to support this open source movement
+- In Powershell download the scoop package manager:
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+      Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser iwr -useb get.scoop.sh | iex
+  
+- Download the necessary packages to run the site:
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+      scoop install git go hugo-extended nodejs
+  
+- Go to your repository folder and execute Hugo:
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+      hugo server
 
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
+Once you have done this you can normally access the website locally at http://localhost:port/ where "port" depends on whether you have any other services running locally. After running "hugo server" you can check the port where the site is being displayed.
 
-## Demo image credits
+Now you can modify the contents directly from your repo and all the changes made will be dynamically updated in the browser. However, for some changes you might need to force refresh your web browser to clear cached content such as images.
 
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
 
-## Latest news
-
-<!--START_SECTION:news-->
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
-* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
-<!--END_SECTION:news-->
+# 3. Commit and push the source code
+Now you can see all the updates you made locally on your website!
