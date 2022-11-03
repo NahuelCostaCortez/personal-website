@@ -32,11 +32,11 @@ content:
     city: Gijón
     region: AS
     postcode: '33203'
-    country: SPAINS
+    country: SPAIN
     country_code: ES
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '43.524229'
+    longitude: '-5.634248'
   contact_links:
     - icon: twitter
       icon_pack: fab

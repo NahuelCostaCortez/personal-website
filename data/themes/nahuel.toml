@@ -1,0 +1,17 @@
+# Theme metadata
+name = "nahuel"
+
+[light]
+  # Primary
+  primary = "#EF525B"
+
+  # Menu
+  menu_primary = "#1A1705"
+  menu_text = "#fff"
+  menu_text_active = "#00828B"
+  menu_title = "#fff"
+
+  # Backgrounds
+  background = "#F2EFDE"
+  home_section_odd = "#F2EFDE"
+  home_section_even = "#F2EFDE"

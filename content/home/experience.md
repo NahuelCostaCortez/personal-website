@@ -25,7 +25,7 @@ experience:
   - title: Lecturer
     company: University of Oviedo
     company_url: ''
-    company_logo: org-x
+    company_logo: org-ovd
     location: Asturias
     date_start: '2021-02-01'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: Visiting Researcher
     company: University of Hawaii at Manoa
     company_url: ''
-    company_logo: org-x
+    company_logo: org-HW
     location: Hawaii
     date_start: '2022-05-17'
     date_end: '2022-09-17'
@@ -60,7 +60,7 @@ experience:
   - title: Research technician
     company: University of Oviedo
     company_url: ''
-    company_logo: org-x
+    company_logo: org-ovd
     location: Asturias
     date_start: '2019-10-01'
     date_end: '2021-01-19'
@@ -69,7 +69,7 @@ experience:
   - title: Research intern
     company: University of Oviedo
     company_url: ''
-    company_logo: org-x
+    company_logo: org-ovd
     location: Asturias
     date_start: '2019-10-01'
     date_end: '2021-01-19'

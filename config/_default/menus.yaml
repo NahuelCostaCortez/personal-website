@@ -10,9 +10,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  #- name: Projects
-  #  url: '#projects'
-  #  weight: 40
+  - name: Projects
+    url: '#projects'
+    weight: 40
+  - name: Notion Templates
+    url: https://secretive-wavelength-5cf.notion.site/Templates-4872791b0e6f435b8d21a913a94b12db
+    weight: 50
   #- name: Posts
   #  url: '#posts'
   #  weight: 50

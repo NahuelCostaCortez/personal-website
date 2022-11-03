@@ -32,9 +32,9 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: Demo
+  url: https://huggingface.co/spaces/NahuelCosta/RUL-Variational
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2665963822000537
 url_code: https://github.com/SoftwareImpacts/SIMPAC-2022-58
 url_dataset: https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
@@ -47,7 +47,7 @@ url_demo: https://huggingface.co/spaces/NahuelCosta/RUL-Variational
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -56,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [AirEng]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

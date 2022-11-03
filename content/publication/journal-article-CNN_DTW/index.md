@@ -34,13 +34,13 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: Demo
+  url: https://huggingface.co/spaces/NahuelCosta/DTW-CNN
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2352152X22015493
 url_code: https://github.com/NahuelCostaCortez/DTW-Li-ion-Diagnosis
 url_dataset: https://data.mendeley.com/datasets/bs2j56pn7y
-url_poster: ''
+url_poster: https://data.mendeley.com/datasets/bs2j56pn7y
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [Li-ion]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
