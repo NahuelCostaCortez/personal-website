@@ -32,7 +32,8 @@ experience:
     description: |2-
         Computer languages and systems area where I teach/taught the following subjects:
         
-        * Business Intelligence
+        * Business Intelligence  
+          [Notes on text mining](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
         * Algorithmics
         * Operating Systems
         * Databases
