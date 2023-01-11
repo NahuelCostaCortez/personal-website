@@ -47,7 +47,7 @@ experience:
     location: Hawaii
     date_start: '2022-05-17'
     date_end: '2022-09-17'
-    description: Research and development of Machine Learning tools for the diagnosis and prognosis of lithium-ion batteries at Hawaii National Energy Institute (HNEI).
+    description: Research and development of Machine Learning tools for the diagnosis and prognosis of lithium-ion batteries at Hawaii Natural Energy Institute (HNEI).
 
   - title: Special Session Organizer
     company: International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems
