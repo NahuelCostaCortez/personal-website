@@ -48,4 +48,10 @@ highlight_name: true
 first_name: Nahuel
 email: ""
 ---
-I am a PhD candidate in the Metrology and Modeling Lab in the Department of Computer Science at the University of Oviedo. My research focus is on building explainable AI models for Prognosis & Health Management and decision-making. I am passionate about making machines learn 🤖, and my goal is to develop AI models that can provide insights into how they make decisions. Ultimately, I hope to make AI more transparent and accountable, so that it can be used more effectively and responsibly.
+As a PhD in computer science and researcher in artificial intelligence, I am passionate about making machines learn 🤖. I am currently working at the Metrology and Modeling Laboratory of the Department of Computer Science at the University of Oviedo, where I am also a professor. My research focus is on developing models that enable system monitoring with a focus on making AI models more easily understandable to non-experts, ensuring that they are accessible to a wider audience. My goal is to make AI more transparent and accountable so that it can be used more effectively and responsibly in decision-making. Additionally, as an educator, I aim to spread my enthusiasm to my students and give them the tools they need to find and pursue their own goals.
+ 
+My current research interests are:
+- Prognosis & Health Management
+- Explainable AI
+- Generative models (GANs, VAEs, Transformers, Difussion)
+- Conformal prediction
