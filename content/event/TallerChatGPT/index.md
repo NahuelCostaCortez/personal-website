@@ -4,7 +4,7 @@ title: Taller ChatGPT
 #event: AI & Biomedicine
 #event_url: https://example.org
 
-#location: CEU San Pablo
+location: Parque tecnológico
 #address:
 #  street: Av. de Montepríncipe
 #  city: Boadilla del Monte
