@@ -13,11 +13,11 @@ title: Taller ChatGPT
 #  country: Spain
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: More information soon...
+abstract: More information coming soon...
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2023-03-10T12:30:00Z'
+date: '2023-04-27T12:30:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 #all_day: false
 
@@ -56,6 +56,4 @@ featured: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - FA
 ---

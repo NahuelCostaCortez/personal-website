@@ -35,12 +35,12 @@ image:
   focal_point: Right
 
 links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/nahucostacortez
 #url_code: ''
-url_pdf: uploads/IABiomedica.pdf
+#url_pdf: uploads/IABiomedica.pdf
 url_slides: uploads/IABiomedica.pdf
 #url_video: ''
 
@@ -56,6 +56,4 @@ url_slides: uploads/IABiomedica.pdf
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - FA
 ---
