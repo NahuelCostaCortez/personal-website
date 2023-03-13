@@ -19,9 +19,9 @@ main:
   #- name: Posts
   #  url: '#posts'
   #  weight: 50
-  #- name: Talks
-  #  url: '#talks'
-  #  weight: 60
+  - name: Talks
+    url: '#talks'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
