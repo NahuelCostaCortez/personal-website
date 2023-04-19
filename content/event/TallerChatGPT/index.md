@@ -13,11 +13,7 @@ address:
   country: Spain
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: Las IAs generativas son un tipo de inteligencia artificial que tienen la capacidad de crear contenido nuevo y original. Su aplicación ha avanzado de forma exponencial en los últimos años y han demostrado un gran potencial en una amplia gama de aplicaciones y en prácticamente todas las industrias. La popularidad de estos modelos está en alza, impulsada en gran parte por ChatGPT, y se espera que su impacto sea cada vez mayor en los próximos años. Por tanto, las diferencias entre las personas/empresas que las utilicen y las que no lo hagan serán cada vez más notables.
-
-El objetivo de este taller práctico es introducir estas tecnologías, mostrar cómo se pueden utilizar de forma sencilla, cómo aplicarlas a nuestro día a día a nivel personal y laboral y entender cómo pueden influir en nuestras vidas en el futuro próximo.
-
-En el taller se explorará una amplia variedad de modelos con aplicaciones prácticas en diferentes tipos de datos y tareas para aprender cómo estas tecnologías pueden ayudarnos a automatizar actividades, ser más eficientes y productivos.
+abstract: Las IAs generativas son un tipo de inteligencia artificial que tienen la capacidad de crear contenido nuevo y original. Su aplicación ha avanzado de forma exponencial en los últimos años y han demostrado un gran potencial en una amplia gama de aplicaciones y en prácticamente todas las industrias. La popularidad de estos modelos está en alza, impulsada en gran parte por ChatGPT, y se espera que su impacto sea cada vez mayor en los próximos años. Por tanto, las diferencias entre las personas/empresas que las utilicen y las que no lo hagan serán cada vez más notables. El objetivo de este taller práctico es introducir estas tecnologías, mostrar cómo se pueden utilizar de forma sencilla, cómo aplicarlas a nuestro día a día a nivel personal y laboral y entender cómo pueden influir en nuestras vidas en el futuro próximo. En el taller se explorará una amplia variedad de modelos con aplicaciones prácticas en diferentes tipos de datos y tareas para aprender cómo estas tecnologías pueden ayudarnos a automatizar actividades, ser más eficientes y productivos.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
