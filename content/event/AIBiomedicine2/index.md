@@ -4,24 +4,20 @@ title: AI & Biomedicine
 #event: AI & Biomedicine
 #event_url: https://example.org
 
-location: As5-Hub Parque Tecnológico Gijón
+location: CEU San Pablo
 address:
-  street: CL Profesor Potter, 72. Parque Científico Tecnológico.  
-  city: Gijón
-  region: Asturias
-  postcode: '33394'
+  street: Av. de Montepríncipe
+  city: Boadilla del Monte
+  region: Madrid
+  postcode: '28668'
   country: Spain
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: Las IAs generativas son un tipo de inteligencia artificial que tienen la capacidad de crear contenido nuevo y original. Su aplicación ha avanzado de forma exponencial en los últimos años y han demostrado un gran potencial en una amplia gama de aplicaciones y en prácticamente todas las industrias. La popularidad de estos modelos está en alza, impulsada en gran parte por ChatGPT, y se espera que su impacto sea cada vez mayor en los próximos años. Por tanto, las diferencias entre las personas/empresas que las utilicen y las que no lo hagan serán cada vez más notables.
-
-El objetivo de este taller práctico es introducir estas tecnologías, mostrar cómo se pueden utilizar de forma sencilla, cómo aplicarlas a nuestro día a día a nivel personal y laboral y entender cómo pueden influir en nuestras vidas en el futuro próximo.
-
-En el taller se explorará una amplia variedad de modelos con aplicaciones prácticas en diferentes tipos de datos y tareas para aprender cómo estas tecnologías pueden ayudarnos a automatizar actividades, ser más eficientes y productivos.
+abstract: El pasado viernes 10 de marzo estuve como invitado en el Ciclo de Conferencias de Ingenieria Biomedica de la Universidad CEU San Pablo hablando sobre Inteligencia Artificial aplicada a la biomedicina. En esta charla cubrimos los orígenes de la IA y su evolución hasta su aplicación actual en múltiples disciplinas médicas, donde también compartí mi experiencia trabajando con Medtronic y el Hospital Universitario Central de Asturias (HUCA). || Last Friday, March 10th, I was a guest speaker at the biomedical engineering lecture series of the CEU San Pablo University talking about Artificial Intelligence applied to biomedicine. In this talk we covered the origins of AI and its evolution to its current application in multiple medical disciplines, where I also shared my experience working with Medtronic and the Hospital Universitario Central de Asturias (HUCA).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-21T12:30:00Z'
+date: '2023-03-10T12:30:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -45,7 +41,7 @@ image:
 #    url: https://twitter.com/georgecushen
 #url_code: ''
 #url_pdf: uploads/IABiomedica.pdf
-url_slides: https://nahuelcosta.notion.site/ChatGPT-y-otras-IAs-generativas-9fe40cbeba62461cb4c24084ec21b8c2
+url_slides: uploads/IABiomedica.pdf
 #url_video: ''
 
 # Markdown Slides (optional).
