@@ -6,9 +6,8 @@ bio: ""
 interests:
   - Prognosis & Health Management
   - Explainable AI
-  - Variational Autoencoders
-  - Transformers
-  - Diffusion models
+  - Generative models (GANs, VAEs, Transformers, Difussion)
+  - Conformal prediction
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,10 +47,7 @@ highlight_name: true
 first_name: Nahuel
 email: ""
 ---
-As a PhD in computer science and researcher in artificial intelligence, I am passionate about making machines learn 🤖. I am currently working at the Metrology and Modeling Laboratory of the Department of Computer Science at the University of Oviedo, where I am also a lecturer. My research focus is on developing models that enable system monitoring with a focus on making AI models more easily understandable to non-experts, ensuring that they are accessible to a wider audience. My goal is to make AI more transparent and accountable so that it can be used more effectively and responsibly in decision-making. Additionally, as an educator, I aim to spread my enthusiasm to my students and give them the tools they need to find and pursue their own goals.
+PhD in Computer Science, Artificial Intelligence researcher 🤖 and university lecturer. I am currently working at the Metrology and Modeling Lab at the University of Oviedo. My research focuses on the development of AI models that allow the monitoring of systems with special interest in facilitating their access to non-experts. This has allowed me to work on diverse problems in different fields such as health, renewable energies, or the aeronautics industry. My goal is to make AI more transparent and accountable so that it can be used more effectively in decision-making. As an educator, I try to spread my enthusiasm to my students and give them the necessary tools to find and pursue their own goals.
  
-My current research interests are:
-- Prognosis & Health Management
-- Explainable AI
-- Generative models (GANs, VAEs, Transformers, Difussion)
-- Conformal prediction
+💬  Feel free to reach out to me if you are interested in my research, looking for colaboration, or just for some interesting discussion.<br>
+✉️  You can shoot me a message at costanahuel@uniovi.es or any of my other social networks, I'll try to respond as soon as I can!
