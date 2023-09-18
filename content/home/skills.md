@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Some of the skills I possess
+title: Some of the things I regularly use
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
   - description: 
     icon: python
     icon_pack: fab
-    name: __Programming languages__ <br> python, matlab, R, C, C++, Java
+    name: <br> python, matlab, R, C, C++, Java
   - description: 
     icon: robot
     icon_pack: fas
-    name: __Machine Learning Libraries__ <br> sklearn, HF Transformers, TensorFlow, Keras, PyTorch
+    name: <br> TensorFlow, Keras, PyTorch, HF Transformers
   - description: 
     icon: overleaf
     icon_pack: ai
-    name: __Writing__ <br> LaTeX
+    name: <br> LaTeX
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
