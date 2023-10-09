@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Some of the things I regularly use
+title: Things I regularly use
 subtitle:
 
 # Showcase personal skills or business features.
