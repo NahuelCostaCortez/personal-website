@@ -19,6 +19,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
+  - name: ML Resources
+    url: https://nahuelcosta.notion.site/Resources-8ff959dd7be94b7e87cb4826c23b4a41?pvs=4
+    weight: 60
   - name: Notion Templates
     url: https://nahuelcosta.notion.site/Templates-4872791b0e6f435b8d21a913a94b12db
     weight: 60
