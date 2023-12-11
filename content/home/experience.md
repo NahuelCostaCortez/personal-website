@@ -33,6 +33,7 @@ experience:
         Computer Science and Artificial Intelligence area where I teach the following subjects:
         
         * Business Intelligence
+        [Notes on text mining](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
         * Data Visualization
         * Algorithmics
 
