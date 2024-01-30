@@ -28,7 +28,7 @@ content:
   email: costanahuel@uniovi.es
   phone: 985 182 686
   address:
-    street: Edif. Polivalente - Desp. 2.6.14
+    street: Edif. Polivalente - Desp. 2.6.14.
     city: Gijón
     region: AS
     postcode: '33203'
