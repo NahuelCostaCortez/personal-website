@@ -29,14 +29,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Cardiovascular Diseases
+    - name: Medical
       tag: FA
-    - name: Aircraft engines
+    - name: PHM
       tag: Aircraft
     - name: Lithium-ion batteries
       tag: Li-ion
-    #- name: Other
-    #  tag: Demo
+    - name: Software
+      tag: Software
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

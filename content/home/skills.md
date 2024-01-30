@@ -7,9 +7,9 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
-title: Things I regularly use
+title: Coding skills
 subtitle:
 
 # Showcase personal skills or business features.

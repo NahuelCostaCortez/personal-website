@@ -36,7 +36,7 @@ item:
     date_end: ''
     date_start: '2021-06-21'
     description: ''
-    organization: Coursera
+    organization: Coursera‎ 
     organization_url: ''
     title: Professional Certificate TensorFlow Developer
     url: 'https://www.coursera.org/professional-certificates/tensorflow-in-practice'
