@@ -1,22 +1,25 @@
 ---
-title: 'Variational encoding approach for interpretable assessment of remaining useful life estimation'
+title: 'Weakly Supervised Learning of the Motion Resistance of a Locomotive Powered by Liquefied Natural Gas'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Luciano Sánchez
-
+  - Pablo Luque
+  - Daniel Álvarez-Mántaras
+  - Jose Otero
+  - admin
 
 # Author notes (optional)
 author_notes:
+  - ''
 
-date: "2022-06-01T00:00:00Z"
-doi: "10.1016/j.ress.2022.108353"
+date: '2022-09-01T00:00:00Z'
+doi: '10.1007/978-3-031-18050-7_59'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2022-09-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,13 +28,13 @@ publishDate: '2022-06-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Reliability Engineering & System Safety*
-publication_short:
+publication: In *International Workshop on Soft Computing Models in Industrial and Environmental Applications*
+publication_short: In *SOCO*
 
-abstract: A new method for evaluating aircraft engine monitoring data is proposed. Commonly, prognostics and health management systems use knowledge of the degradation processes of certain engine components together with professional expert opinion to predict the Remaining Useful Life (RUL). New data-driven approaches have emerged to provide accurate diagnostics without relying on such costly processes. However, most of them lack an explanatory component to understand model learning and/or the nature of the data. To overcome this gap we propose a novel approach based on variational encoding. The model consists of a recurrent encoder and a regression model, the encoder learns to compress the input data to a latent space that serves as a basis to build a self-explanatory map that can visually evaluate the rate of deterioration of aircraft engines. Obtaining such a latent space is regularized by a new cost function guided by variational inference and a term that penalizes prediction errors. Consequently, not only an interpretable assessment is achieved but also a remarkable prognostic accuracy, outperforming most of the state-of-the-art approaches on the popular simulation dataset C-MAPSS from NASA. In addition, we demonstrate the application of our method in a real-world scenario with data from actual Turbofan engines.
+abstract: A model of the running resistance of a locomotive powered by liquefied natural gas is proposed. The model uses operating data and does not require specific instrumentation. The input data consists of a succession of instantaneous speed and electrical power measurements of a diesel-electric locomotive. The slope at each point along the route is unknown and the speed is measured with a digital sensor that quantifies the signal, so acceleration estimates are also unreliable. From these data, a weakly supervised learning problem is defined that makes use of a fuzzy rule-based system to indirectly predict the effective slope, and is able to estimate the power demand of the locomotive with a margin of error close to 5%.
 
 # Summary. An optional shortened abstract.
-summary: This work proposes a novel approach based on variational encoding to evaluate aircraft engine monitoring data.
+summary: This work presents a model of the running resistance of a locomotive powered by liquefied natural gas.
 
 tags: []
 
@@ -43,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-42536-3_26
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-18050-7_59
 url_code: ''
 url_dataset: ''
 url_poster: ''
