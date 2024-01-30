@@ -48,7 +48,7 @@ highlight_name: true
 first_name: Nahuel
 email: ""
 ---
-Ph.D. in Computer Science, assistant professor at the University of Oviedo and Machine Learning researcher 🤖. My research primarily focuses on the application of AI models for the diagnosis and prognosis of systems with limited data for decision-making. This has allowed me to work on problems in different fields, including medicine, aviation, and renewable energy. I have a special interest in developing models that are transparent, easily interpretable, and accessible to non-experts in ML/AI. As an educator, I aim to convey my enthusiasm to students and provide them with the necessary tools to discover and pursue their own goals.
+Ph.D. in Computer Science, assistant professor at the University of Oviedo and Machine Learning researcher 🤖. My research primarily focuses on the diagnosis and prognosis of systems with limited data for decision-making. This has allowed me to work on various fields and problems including Atrial Fibrillation, fPET images from patients in coma, Li-ion Batteries, Aircraft Engines, Industrial Fans, and Urban Regulation. I have a special interest in developing models that are transparent, easily interpretable, and accessible to non-experts in ML/AI. As an educator, I aim to convey my enthusiasm to students and provide them with the necessary tools to discover and pursue their own goals.
  
 💬  Feel free to reach out to me if you are interested in my research, looking for colaboration, or just for some interesting discussion.<br>
 ✉️  You can shoot me a message at costanahuel@uniovi.es or any of my other social networks, I'll try to respond as soon as I can!
