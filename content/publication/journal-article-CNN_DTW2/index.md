@@ -1,5 +1,5 @@
 ---
-title: "Li-ion battery degradation modes diagnosis via Convolutional Neural Networks"
+title: "Li-ion battery degradation modes diagnosis via Convolutional Neural Networks 2"
 authors:
 - admin
 - Luciano Sánchez
