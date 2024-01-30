@@ -1,10 +1,14 @@
 ---
 title: "Simplified models of remaining useful life based on stochastic orderings"
+
 authors:
 - Luciano Sánchez
 - admin
 - Inés Couso
+
 author_notes:
+  - ''
+  
 date: "2023-09-01T00:00:00Z"
 doi: "10.1016/j.ress.2023.109321"
 

@@ -1,9 +1,13 @@
 ---
 title: "Variational encoding approach for interpretable assessment of remaining useful life estimation"
+
 authors:
 - admin
 - Luciano Sánchez
+
 author_notes:
+  - ''
+  
 date: "2022-06-01T00:00:00Z"
 doi: "10.1016/j.ress.2022.108353"
 

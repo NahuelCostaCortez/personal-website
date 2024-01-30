@@ -1,13 +1,16 @@
 ---
 title: "Learning remaining useful life with incomplete health information: A case study on battery deterioration assessment"
+
 authors:
 - Luciano Sánchez
 - admin
 - José Otero
 - David Anseán
 - Inés Couso
+
 author_notes:
   - ''
+  
 date: "2023-12-01T00:00:00Z"
 doi: "10.1016/j.ress.2023.109321"
 

@@ -1,10 +1,13 @@
 ---
 title: "Semi-Supervised Recurrent Variational Autoencoder Approach for Visual Diagnosis of Atrial Fibrillation"
+
 authors:
 - admin
 - Luciano Sánchez
+
 author_notes:
   - ''
+
 date: "2021-03-09T00:00:00Z"
 doi: "10.1109/ACCESS.2021.3064854"
 
