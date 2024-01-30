@@ -1,39 +1,37 @@
 ---
-title: 'Enhancing Time Series Anomaly Detection Using Discretization and Word Embeddings'
+title: 'Variational encoding approach for interpretable assessment of remaining useful life estimation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Lucas Pérez
   - admin
   - Luciano Sánchez
 
 
 # Author notes (optional)
 author_notes:
-  - ''
 
-date: '2023-08-31T00:00:00Z'
-doi: '10.1007/978-3-031-42536-3_26'
+date: "2022-06-01T00:00:00Z"
+doi: "10.1016/j.ress.2022.108353"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-08-31T00:00:00Z'
+publishDate: '2022-06-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Soft Computing Models in Industrial and Environmental Applications*
-publication_short: In *SOCO*
+publication: In *Reliability Engineering & System Safety*
+publication_short:
 
-abstract: Time series anomaly detection plays a pivotal role across diverse fields, including cybersecurity, healthcare and industrial monitoring. While Machine Learning and Deep Learning approaches have shown remarkable performance in these problems, finding a balance between simplicity and accuracy remains a persistent challenge. Also, although the potential of NLP methods is heavily expanding, their application in time series analysis is still to be explored, which could benefit greatly due to the properties of latent features. In this paper, we propose WETAD, a novel approach for unsupervised anomaly detection based on the representation of time series data as text, in order to leverage the use of well-established word embeddings. To showcase the performance of the model a series of experiments were conducted on a diverse set of anomaly detection datasets widely used in the literature. Results demonstrate our approach can compete and even outperform state-of-the-art approaches with a simple, yet effective model.
+abstract: A new method for evaluating aircraft engine monitoring data is proposed. Commonly, prognostics and health management systems use knowledge of the degradation processes of certain engine components together with professional expert opinion to predict the Remaining Useful Life (RUL). New data-driven approaches have emerged to provide accurate diagnostics without relying on such costly processes. However, most of them lack an explanatory component to understand model learning and/or the nature of the data. To overcome this gap we propose a novel approach based on variational encoding. The model consists of a recurrent encoder and a regression model, the encoder learns to compress the input data to a latent space that serves as a basis to build a self-explanatory map that can visually evaluate the rate of deterioration of aircraft engines. Obtaining such a latent space is regularized by a new cost function guided by variational inference and a term that penalizes prediction errors. Consequently, not only an interpretable assessment is achieved but also a remarkable prognostic accuracy, outperforming most of the state-of-the-art approaches on the popular simulation dataset C-MAPSS from NASA. In addition, we demonstrate the application of our method in a real-world scenario with data from actual Turbofan engines.
 
 # Summary. An optional shortened abstract.
-summary: This work presents a novel approach for unsupervised anomaly detection based on word embeddings using time series data represented as text.
+summary: This work proposes a novel approach based on variational encoding to evaluate aircraft engine monitoring data.
 
 tags: []
 
