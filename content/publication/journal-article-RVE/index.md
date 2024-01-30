@@ -36,14 +36,15 @@ summary: This work proposes a novel approach based on variational encoding to ev
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-18050-7_59
+links:
+- name: Demo
+  url: https://huggingface.co/spaces/NahuelCosta/RUL-Variational
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0951832022000321
+url_code: https://github.com/NahuelCostaCortez/Remaining-Useful-Life-Estimation-Variational
+url_dataset: https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
 url_code: ''
 url_dataset: ''
 url_poster: ''
