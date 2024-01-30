@@ -19,7 +19,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Journal of Energy Storage*
+publication: In *Journal of Energy Storage*
 publication_short: ""
 
 abstract: Lithium-ion batteries are ubiquitous in modern society with a presence in storage systems, electric cars, portable electronics, and many more applications. Consequently, to enable safe and reliable use of LIB systems, diagnosis and prognosis have become critical. Within the field of Artificial Intelligence, Deep Learning algorithms have achieved significant impacts for image or object recognition, yet their application for battery diagnosis is still at an early developing stage. In this paper, we propose a novel approach for battery degradation diagnosis based on the representation of battery data as images, in order to leverage the use of well-established Convolutional Neural Networks. Accuracy for diagnosis, via the quantification of degradation modes was tested on synthetic data. Our approach was shown to be more accurate than current methodologies with Root Mean Squared Errors around 2% on average for 1000 duty cycles compared to between 2.64 to 7.27% for other state-of-the-art algorithms. We also show that the proposed methodology adapts to various cell chemistries and constructive configurations, and validate its applicability to a real-world scenario with experimental data from commercial LIBs.
