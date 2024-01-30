@@ -1,15 +1,15 @@
 ---
-title: Cardiovascular Diseases
-summary: Diagnosis and treatment of Atrial Fibrillation
+title: PHM
+summary: Prognosis & Health Management
 tags:
-  - FA
-date: '2018-12-01T00:00:00Z'
+  - Aircraft
+date: '2020-12-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo generated with Stable Difussion
+  caption: Photo generated with Dalle 3
   focal_point: Smart
 
 #links:
