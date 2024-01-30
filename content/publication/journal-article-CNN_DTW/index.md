@@ -6,8 +6,6 @@ authors:
 - David Anseán
 - Matthieu Dubarry
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2022-09-01T00:00:00Z"
 doi: "10.1016/j.est.2022.105558"
 
@@ -40,7 +38,7 @@ links:
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2352152X22015493
 url_code: https://github.com/NahuelCostaCortez/DTW-Li-ion-Diagnosis
 url_dataset: https://data.mendeley.com/datasets/bs2j56pn7y
-url_poster: https://data.mendeley.com/datasets/bs2j56pn7y
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''

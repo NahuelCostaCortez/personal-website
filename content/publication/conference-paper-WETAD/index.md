@@ -1,22 +1,24 @@
 ---
-title: 'Remaining useful life estimation using a recurrent variational autoencoder'
+title: 'Enhancing Time Series Anomaly Detection Using Discretization and Word Embeddings'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Lucas Pérez
   - admin
   - Luciano Sánchez
+
 
 # Author notes (optional)
 author_notes:
   - ''
 
-date: '2021-09-01T00:00:00Z'
-doi: ''
+date: '2023-08-31T00:00:00Z'
+doi: '10.1007/978-3-031-42536-3_26'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-09-01T00:00:00Z'
+publishDate: '2023-08-31T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,13 +27,13 @@ publishDate: '2021-09-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Hybrid Artificial Intelligence Systems*
-publication_short: In *HAIS*
+publication: In *International Conference on Soft Computing Models in Industrial and Environmental Applications*
+publication_short: In *SOCO*
 
-abstract: A new framework for the assessment of Engine Health Monitoring (EHM) data in aircraft is proposed. Traditionally, prognostics and health management systems rely on prior knowledge of the degradation of certain components along with professional expert opinion to predict the Remaining Useful Life (RUL). In order to avoid reliance on this process while still providing an accurate diagnosis, a data-driven approach using a novel recurrent version of a VAE is introduced. The latent space learned by this model, trained with the historical data recorded by the sensors embedded in these engines, is used to visually evaluate the deterioration progress of the engines. High prognostic accuracy in estimating the RUL is achieved by building a simple classifier on top of the learned features of the VAE. The superiority of the proposed method is compared with other popular and state-of-the-art approaches using Rolls Royce Turbofan engine data. The results of this study suggest that the proposed data-driven prognostic and explainable framework offers a new and promising approach.
+abstract: Time series anomaly detection plays a pivotal role across diverse fields, including cybersecurity, healthcare and industrial monitoring. While Machine Learning and Deep Learning approaches have shown remarkable performance in these problems, finding a balance between simplicity and accuracy remains a persistent challenge. Also, although the potential of NLP methods is heavily expanding, their application in time series analysis is still to be explored, which could benefit greatly due to the properties of latent features. In this paper, we propose WETAD, a novel approach for unsupervised anomaly detection based on the representation of time series data as text, in order to leverage the use of well-established word embeddings. To showcase the performance of the model a series of experiments were conducted on a diverse set of anomaly detection datasets widely used in the literature. Results demonstrate our approach can compete and even outperform state-of-the-art approaches with a simple, yet effective model.
 
 # Summary. An optional shortened abstract.
-summary: This work presents a novel recurrent VAE-based framework for the assessment of Engine Health Monitoring (EHM) data in aircraft.
+summary: This work presents a novel approach for unsupervised anomaly detection based on word embeddings using time series data represented as text.
 
 tags: []
 
@@ -43,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-86271-8_5
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-42536-3_26
 url_code: ''
 url_dataset: ''
 url_poster: ''
