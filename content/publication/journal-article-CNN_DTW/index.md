@@ -1,11 +1,15 @@
 ---
 title: 'Li-ion battery degradation modes diagnosis via Convolutional Neural Networks'
+
 authors:
 - admin
 - Luciano Sánchez
 - David Anseán
 - Matthieu Dubarry
+
 author_notes:
+  - ''
+  
 date: '2022-09-01T00:00:00Z'
 doi: '10.1016/j.est.2022.105558'
 
