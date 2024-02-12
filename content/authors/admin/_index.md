@@ -7,8 +7,9 @@ interests:
   - Prognosis & Health Management
   - Explainable AI
   - Generative models (GANs, VAEs, Transformers, Difussion)
+  - Domain adaptation
   - Conformal prediction
-  - Large Language Models
+  - LLMs and RAG
 social:
   - icon: envelope
     icon_pack: fas
