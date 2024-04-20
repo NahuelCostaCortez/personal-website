@@ -4,6 +4,7 @@ summary: Prognosis & Health Management
 tags:
   - Aircraft
 date: '2020-12-01T00:00:00Z'
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

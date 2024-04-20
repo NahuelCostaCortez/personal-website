@@ -4,6 +4,7 @@ summary: Diagnosis and treatment of Atrial Fibrillation
 tags:
   - FA
 date: '2018-12-01T00:00:00Z'
+weight: 60
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

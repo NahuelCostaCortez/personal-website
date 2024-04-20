@@ -9,9 +9,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 50
 
-title: Projects
+title: Topics & Projects
 subtitle: ''
 
 content:
@@ -29,12 +29,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Medical
-      tag: FA
     - name: PHM
       tag: Aircraft
     - name: Lithium-ion batteries
       tag: Li-ion
+    - name: Medical
+      tag: FA
     - name: Software
       tag: Software
 
@@ -47,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: Showcase
+  view: Card
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

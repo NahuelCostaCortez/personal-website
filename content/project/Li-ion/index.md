@@ -4,6 +4,7 @@ summary: Diagnosis and prognosis of lithium-ion batteries
 tags:
   - Li-ion
 date: '2021-12-01T00:00:00Z'
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Coding skills
+title: Tech stack
 subtitle:
 
 # Showcase personal skills or business features.

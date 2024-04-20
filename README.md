@@ -19,7 +19,8 @@ The following sections explain in detail how this website was developed and depl
 
 - In Powershell download the scoop package manager:
 
-      Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser iwr -useb get.scoop.sh | iex
+      Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+      Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
   
 - Download the necessary packages to run the site:
 

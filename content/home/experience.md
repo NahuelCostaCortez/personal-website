@@ -25,13 +25,19 @@ experience:
   - title: Assistant Professor
     company: University of Oviedo
     company_url: ''
-    company_logo:
-    location: Asturias
+    company_logo: uniovi
+    location:
     date_start: '2023-09-01'
     date_end: ''
     description: |2-
-        Computer Science and Artificial Intelligence area where I teach the following subjects:
+        Computer Science and Artificial Intelligence
         
+        Co-Supervisor for a PhD thesis in AI for medical image analysis
+        
+        Projects: 
+        - Automated Moodle quiz creation and optimization using learning analytics, application to learning programming languages
+        
+        Subjects I teach:
         * Business Intelligence
         [Notes on text mining](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
         * Data Visualization
@@ -40,12 +46,16 @@ experience:
   - title: Lecturer
     company: University of Oviedo
     company_url: ''
-    company_logo:
-    location: Asturias
+    company_logo: uniovi
+    location:
     date_start: '2021-02-01'
     date_end: '2023-08-31'
     description: |2-
-        Computer languages and systems area where I taught the following subjects:
+        Computer languages and systems area
+        
+        Co-Supervisor for four BA thesis (two of them with highest honors)
+
+        Subject I taught: 
         
         * Business Intelligence  
         * Data Visualization
@@ -58,7 +68,7 @@ experience:
   - title: Visiting Researcher
     company: University of Montpellier
     company_url: ''
-    company_logo:
+    company_logo: montpellier
     location: Montpellier
     date_start: '2023-05-21'
     date_end: '2023-07-21'
@@ -67,7 +77,7 @@ experience:
   - title: Visiting Researcher
     company: University of Hawaii at Manoa
     company_url: ''
-    company_logo:
+    company_logo: hawaii
     location: Hawaii
     date_start: '2022-05-17'
     date_end: '2022-09-17'
@@ -76,8 +86,8 @@ experience:
   - title: Research technician
     company: University of Oviedo
     company_url: ''
-    company_logo:
-    location: Asturias
+    company_logo: uniovi
+    location: 
     date_start: '2019-10-01'
     date_end: '2021-01-19'
     description: Development of computational health models for the treatment of rechargeable batteries.
@@ -85,8 +95,8 @@ experience:
   - title: Research intern
     company: University of Oviedo
     company_url: ''
-    company_logo:
-    location: Asturias
+    company_logo: uniovi
+    location: 
     date_start: '2019-10-01'
     date_end: '2021-01-19'
     description: Analysis of intracardiac electrocardiograms for the prediction of cardiovascular diseases.

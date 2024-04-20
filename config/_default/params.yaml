@@ -7,6 +7,8 @@
 
 appearance:
   theme_night: minimal
+  theme_day: Earth
+  color: red
   font: Rose
   font_size: L
 
