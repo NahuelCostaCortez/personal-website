@@ -1,5 +1,5 @@
 ---
-title: Generative AI - Benefits and Limitations
+title: IA Generativa - Ventajas y limitaciones | Generative AI - Benefits and Limitations
 
 #event: AI & Biomedicine
 #event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '33012'
   country: Spain
 
-abstract: Lecture broadcasted to Total Energies Spain employees from the Oviedo offices regarding the capabilities and limitations of generative AI.<br><br>Charla transmitida a los empleados de Total Energies España desde las oficinas de Oviedo acerca de las capacidades y limitaciones de las IAs generativas.
+abstract: Charla transmitida a los empleados de Total Energies España desde las oficinas de Oviedo acerca de las capacidades y limitaciones de las IAs generativas.<br><br>Lecture broadcasted to Total Energies Spain employees from the Oviedo offices regarding the capabilities and limitations of generative AI.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

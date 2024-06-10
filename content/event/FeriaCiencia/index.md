@@ -1,23 +1,20 @@
 ---
-title: Inteligencia Artificial y Biomedicina | AI & Biomedicine
+title: Aprende a crear un NPC realista e inteligente | Learn how to create a realistic and intelligent NPC
 
-#event: AI & Biomedicine
-#event_url: https://example.org
-
-location: CEU San Pablo
+location: Feria de la Ciencia y la Innovación de Asturias
 address:
-  street: Av. de Montepríncipe
-  city: Boadilla del Monte
-  region: Madrid
-  postcode: '28668'
+  street: Fábrica de Armas de La Vega
+  city: Oviedo
+  region: Asturias
+  postcode: 
   country: Spain
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: Invitado en el Ciclo de Conferencias de Ingenieria Biomedica de la Universidad CEU San Pablo hablando sobre Inteligencia Artificial aplicada a la biomedicina, en esta charla cubrimos los orígenes de la IA y su evolución hasta su aplicación actual en múltiples disciplinas médicas, donde también compartí mi experiencia trabajando con Medtronic y el Hospital Universitario Central de Asturias (HUCA).<br><br> On Friday, March 10th, I was a guest speaker at the biomedical engineering lecture series of the CEU San Pablo University talking about Artificial Intelligence applied to biomedicine. In this talk we covered the origins of AI and its evolution to its current application in multiple medical disciplines, where I also shared my experience working with Medtronic and the Hospital Universitario Central de Asturias (HUCA).<br><br> 
+abstract: Los NPC (Non playable character) de un videojuego son personajes que forman parte de la historia, pero que no pueden ser controlados directamente por el jugador. Gracias a los avances en IA generativa las experiencias de juego cada vez serán más inmersivas, realistas y personalizadas. En esta actividad los alumnos pudieron aprender a diseñar un NPC, a darle emociones faciales y a conectarlo con un modelo de lenguaje para dotarlo de cierta "inteligencia". <br><br>NPCs (Non playable character) in a video game are characters that are part of the story, but cannot be directly controlled by the player. Thanks to advances in generative AI, game experiences will become progressively more immersive, realistic and personalized. In this activity students could learn how to design an NPC, give it facial emotions and connect it with a language model to give it some "intelligence".
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-10T12:30:00Z'
+date: '2024-04-24T12:30:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -41,7 +38,7 @@ image:
 #    url: https://twitter.com/georgecushen
 #url_code: ''
 #url_pdf: uploads/IABiomedica.pdf
-url_slides: uploads/IABiomedica.pdf
+#url_slides: uploads/IABiomedica.pdf
 #url_video: ''
 
 # Markdown Slides (optional).

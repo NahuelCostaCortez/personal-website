@@ -34,14 +34,17 @@ experience:
         
         Co-Supervisor for a PhD thesis in AI for medical image analysis
         
-        Projects: 
+        Innovation Projects: 
         - Automated Moodle quiz creation and optimization using learning analytics, application to learning programming languages
-        
+        <br><br>
+
         Subjects I teach:
         * Business Intelligence
-        [Notes on text mining](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
         * Data Visualization
         * Algorithmics
+
+        >[🇪🇸 - Apuntes de minería de texto](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
+        <br><br>[🇪🇸 - Apuntes de algoritmia](https://nahuels-organization.gitbook.io/algoritmia)
 
   - title: Lecturer
     company: University of Oviedo

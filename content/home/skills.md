@@ -23,7 +23,7 @@ feature:
   - description: 
     icon: robot
     icon_pack: fas
-    name: <br> TensorFlow, Keras, PyTorch, HF Transformers
+    name: <br> TensorFlow, PyTorch, Keras, HF Transformers, HF Diffusers, LangChain, LlamaIndex
   - description: 
     icon: overleaf
     icon_pack: ai
