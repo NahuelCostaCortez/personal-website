@@ -1,5 +1,5 @@
 ---
-title: Inteligencia Artificial y Biomedicina | AI & Biomedicine
+title: AI & Biomedicine
 
 #event: AI & Biomedicine
 #event_url: https://example.org
@@ -13,7 +13,7 @@ address:
   country: Spain
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: Invitado en el Ciclo de Conferencias de Ingenieria Biomedica de la Universidad CEU San Pablo hablando sobre Inteligencia Artificial aplicada a la biomedicina, en esta charla cubrimos los orígenes de la IA y su evolución hasta su aplicación actual en múltiples disciplinas médicas, donde también compartí mi experiencia trabajando con Medtronic y el Hospital Universitario Central de Asturias (HUCA).<br><br> On Friday, March 10th, I was a guest speaker at the biomedical engineering lecture series of the CEU San Pablo University talking about Artificial Intelligence applied to biomedicine. In this talk we covered the origins of AI and its evolution to its current application in multiple medical disciplines, where I also shared my experience working with Medtronic and the Hospital Universitario Central de Asturias (HUCA).<br><br> 
+abstract: 🇪🇸 Invitado en el Ciclo de Conferencias de Ingenieria Biomedica de la Universidad CEU San Pablo hablando sobre Inteligencia Artificial aplicada a la biomedicina, en esta charla cubrimos los orígenes de la IA y su evolución hasta su aplicación actual en múltiples disciplinas médicas, donde también compartí mi experiencia trabajando con Medtronic y el Hospital Universitario Central de Asturias (HUCA).<br><br> 🇬🇧 On Friday, March 10th, I was a guest speaker at the biomedical engineering lecture series of the CEU San Pablo University talking about Artificial Intelligence applied to biomedicine. In this talk we covered the origins of AI and its evolution to its current application in multiple medical disciplines, where I also shared my experience working with Medtronic and the Hospital Universitario Central de Asturias (HUCA).<br><br> 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

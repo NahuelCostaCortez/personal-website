@@ -30,11 +30,9 @@ content:
     - name: All
       tag: '*'
     - name: PHM
-      tag: Aircraft
-    - name: Lithium-ion batteries
-      tag: Li-ion
+      tag: PHM
     - name: Medical
-      tag: FA
+      tag: Medical
     - name: Software
       tag: Software
 

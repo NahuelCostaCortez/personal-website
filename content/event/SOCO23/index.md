@@ -1,20 +1,23 @@
 ---
-title: Learn how to create a realistic and intelligent NPC
+title: "18th International Conference on Soft Computing Models in Industrial and Environmental Applications"
 
-location: Feria de la Ciencia y la Innovación de Asturias
+#event: AI & Biomedicine
+#event_url: https://example.org
+
+location: SOCO 2023
 address:
-  street: Fábrica de Armas de La Vega
-  city: Oviedo
+  street: Aulario Sur
+  city: Gijón
   region: Asturias
-  postcode: 
+  postcode: '33203'
   country: Spain
 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 🇪🇸 Los NPC (Non playable character) de un videojuego son personajes que forman parte de la historia, pero que no pueden ser controlados directamente por el jugador. Gracias a los avances en IA generativa las experiencias de juego cada vez serán más inmersivas, realistas y personalizadas. En esta actividad los alumnos pudieron aprender a diseñar un NPC, a darle emociones faciales y a conectarlo con un modelo de lenguaje para dotarlo de cierta "inteligencia". <br><br>🇬🇧 NPCs (Non playable character) in a video game are characters that are part of the story, but cannot be directly controlled by the player. Thanks to advances in generative AI, game experiences will become progressively more immersive, realistic and personalized. In this activity students could learn how to design an NPC, give it facial emotions and connect it with a language model to give it some "intelligence".
+abstract: Presenting our work "Enhancing Time Series Anomaly Detection Using Discretization and Word Embeddings".
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-24T12:30:00Z'
+date: '2023-09-06T14:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -38,7 +41,6 @@ image:
 #    url: https://twitter.com/georgecushen
 #url_code: ''
 #url_pdf: uploads/IABiomedica.pdf
-#url_slides: uploads/IABiomedica.pdf
 #url_video: ''
 
 # Markdown Slides (optional).

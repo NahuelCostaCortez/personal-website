@@ -1,13 +1,14 @@
 ---
-title: Nahuel Costa
-role: Machine Learning & AI researcher
+title: Nahuel Costa, PhD
+role: Assistant professor and Machine Learning researcher 🤖
 avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Prognosis & Health Management
-  - Explainable AI
-  - Generative models (GANs, VAEs, Transformers, Difussion)
+  - Generative models (GANs, VAEs, Flows, Transformers, Difussion)
   - Domain adaptation
+  - Survival prediction
+  - Explainable AI
   - Conformal prediction
   - LLMs and RAG
 social:
@@ -49,7 +50,7 @@ highlight_name: true
 first_name: Nahuel
 email: ""
 ---
-Ph.D. in Computer Science, assistant professor at the University of Oviedo and Machine Learning researcher 🤖. My research primarily focuses on the diagnosis and prognosis of systems with limited data for decision-making. This has allowed me to work on various fields and problems including Atrial Fibrillation, fPET images from patients in coma, Li-ion Batteries, Aircraft Engines, Industrial Fans, and Urban Regulation. I have a special interest in developing models that are transparent, easily interpretable, and accessible to non-experts in ML/AI. As an educator, I aim to convey my enthusiasm to students and provide them with the necessary tools to discover and pursue their own goals.
+My research focuses on maximizing the potential of Machine Learning, particularly in scenarios with limited data, to predict outcomes and support decision-making in monitoring systems. This includes applications across both biomedical and industrial domains. In the **biomedical field**, I have worked on problems such as <ins>arrhythmia</ins> detection and classification, as well as the analysis of <ins>X-ray</ins> images and <ins>functional PET</ins> images from patients in deep coma. In the **industrial domain**, my work has included monitoring and prognostics for <ins>lithium-ion batteries</ins>, <ins>aircraft engines</ins>, and <ins>industrial fans</ins>. I have a particular interest in developing ML models that are not only robust and effective but also interpretable and accessible to non-experts, ensuring their practical utility across diverse applications. As an educator, my goal is to inspire students through enthusiasm for the field while equipping them with the skills and tools to define and achieve their own aspirations.
  
 💬  Feel free to reach out to me if you are interested in my research, looking for colaboration, or just for some interesting discussion.<br>
 ✉️  You can shoot me a message at costanahuel@uniovi.es or any of my other social networks, I'll try to respond as soon as I can!

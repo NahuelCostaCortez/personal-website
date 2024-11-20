@@ -2,7 +2,7 @@
 title: PHM
 summary: Prognosis & Health Management
 tags:
-  - Aircraft
+  - PHM
 date: '2020-12-01T00:00:00Z'
 weight: 20
 
@@ -30,5 +30,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
-I will update soon!

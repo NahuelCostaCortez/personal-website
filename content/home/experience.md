@@ -30,21 +30,21 @@ experience:
     date_start: '2023-09-01'
     date_end: ''
     description: |2-
-        Computer Science and Artificial Intelligence
         
-        Co-Supervisor for a PhD thesis in AI for medical image analysis
-        
+        Supervising several bachelor's theses and co-supervising a Ph.D. thesis in "Prognosis of Degenerative Diseases Using Unsupervised and Partially Supervised Learning Techniques"
+
+        Subjects I teach:
+        * [Generative models](https://www.uniovi.es/en/estudia/grados/ingenieria/datos/-/fof/asignatura/GCINGD01-4-008)
+        * [Business Intelligence](https://www.uniovi.es/en/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-4-006)
+        * [Data Visualization](https://www.uniovi.es/en/estudia/grados/ingenieria/datos/-/fof/asignatura/GCINGD01-3-006)
+        * [Algorithmics](https://www.uniovi.es/en/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-001)
+
+        >[Apuntes de minería de texto 🇪🇸](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
+        <br><br>[Apuntes de algoritmia 🇪🇸](https://nahuels-organization.gitbook.io/algoritmia)
+
         Innovation Projects: 
         - Automated Moodle quiz creation and optimization using learning analytics, application to learning programming languages
         <br><br>
-
-        Subjects I teach:
-        * Business Intelligence
-        * Data Visualization
-        * Algorithmics
-
-        >[🇪🇸 - Apuntes de minería de texto](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
-        <br><br>[🇪🇸 - Apuntes de algoritmia](https://nahuels-organization.gitbook.io/algoritmia)
 
   - title: Lecturer
     company: University of Oviedo
@@ -54,9 +54,8 @@ experience:
     date_start: '2021-02-01'
     date_end: '2023-08-31'
     description: |2-
-        Computer languages and systems area
         
-        Co-Supervisor for four BA thesis (two of them with highest honors)
+        Co-Supervisor for four BA thesis (two of them obtained with highest honors)
 
         Subject I taught: 
         

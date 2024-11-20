@@ -1,16 +1,16 @@
 ---
-title: Cardiovascular Diseases
-summary: Diagnosis and treatment of Atrial Fibrillation
+title: The Training Loop
+summary: Podcast
 tags:
-  - FA
-date: '2018-12-01T00:00:00Z'
-weight: 60
+  - Others
+date: '2023-01-30T00:00:00Z'
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo generated with Stable Difussion
+  caption:
   focal_point: Smart
 
 #links:
@@ -21,7 +21,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/@TheTrainingLoop'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,5 +30,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+🇪🇸
+Un doctor en IA y un emprendedor se unen para crear un podcast de entretenimiento. Invitados muy variados y de todas las ramas.
 
-I will update soon!
+<br><br>
+🇬🇧
+An AI researcher and an entrepreneur team up to create an entertainment podcast. A wide variety of guests from different fields.
