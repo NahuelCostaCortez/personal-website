@@ -3,8 +3,8 @@ title: The Training Loop
 summary: Podcast
 tags:
   - Others
-date: '2023-01-30T00:00:00Z'
-weight: 20
+date: ''
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

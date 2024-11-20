@@ -3,8 +3,8 @@ title: RapidAE
 summary: A Python library for creation, experimentation, and benchmarking of Autoencoder models
 tags:
   - Software
-date: '2023-01-30T00:00:00Z'
-weight: 40
+date: ''
+weight: 50
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

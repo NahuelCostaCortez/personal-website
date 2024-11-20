@@ -3,8 +3,8 @@ title: PHM
 summary: Prognosis & Health Management
 tags:
   - PHM
-date: '2020-12-01T00:00:00Z'
-weight: 20
+date: ''
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -3,8 +3,8 @@ title: Medical
 summary: Diagnosis and treatment of medical Problems
 tags:
   - Medical
-date: '2018-12-01T00:00:00Z'
-weight: 10
+date: ''
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

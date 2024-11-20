@@ -3,8 +3,8 @@ title: CitiesDatalex (LLMs and RAG)
 summary: Software to improve access to legal regulations in the processes of sustainable urban and territorial development
 tags:
   - Software
-date: '2023-01-30T00:00:00Z'
-weight: 30
+date: ''
+weight: 40
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
