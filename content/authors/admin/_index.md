@@ -1,6 +1,6 @@
 ---
 title: Nahuel Costa, PhD
-role: Assistant professor and Machine Learning researcher 🤖
+role: Machine Learning researcher 🤖 Assistant professor
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -50,7 +50,9 @@ highlight_name: true
 first_name: Nahuel
 email: ""
 ---
-My research focuses on maximizing the potential of Machine Learning, particularly in scenarios with limited data, to predict outcomes and support decision-making in monitoring systems. This includes applications across both biomedical and industrial domains. In the **biomedical field**, I have worked on problems such as <ins>arrhythmia</ins> detection and classification, as well as the analysis of <ins>X-ray</ins> images and <ins>functional PET</ins> images from patients in deep coma. In the **industrial domain**, my work has included monitoring and prognostics for <ins>lithium-ion batteries</ins>, <ins>aircraft engines</ins>, and <ins>industrial fans</ins>. I have a particular interest in developing ML models that are not only robust and effective but also interpretable and accessible to non-experts, ensuring their practical utility across diverse applications. As an educator, my goal is to inspire students through enthusiasm for the field while equipping them with the skills and tools to define and achieve their own aspirations.
+My research focuses on maximizing the potential of Machine Learning, particularly in scenarios with limited data, to anticipate potential outcomes and support decision-making in monitoring systems. This includes applications across both biomedical and industrial domains. In the **biomedical field**, I have worked on problems such as <ins>arrhythmia</ins> detection and classification, as well as the analysis of <ins>X-ray</ins> images and <ins>functional PET</ins> images from patients in deep coma. In the **industrial domain**, my work has included monitoring and prognostics for <ins>lithium-ion batteries</ins>, <ins>aircraft engines</ins>, and <ins>industrial fans</ins>. 
+
+I have a particular interest in developing ML models that are robust and effective but also interpretable and accessible to non-experts, ensuring their practical utility across diverse applications. As an educator, I aim to convey my enthusiasm to students and provide them with the necessary tools to define and pursue their own goals.
  
 💬  Feel free to reach out to me if you are interested in my research, looking for colaboration, or just for some interesting discussion.<br>
 ✉️  You can shoot me a message at costanahuel@uniovi.es or any of my other social networks, I'll try to respond as soon as I can!
