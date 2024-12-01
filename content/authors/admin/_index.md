@@ -43,7 +43,7 @@ education:
       year: 2020
     - course: BSc in Computer Science
       institution: University of Oviedo
-      year: 2018
+      year: 2019
 superuser: true
 last_name: Costa
 highlight_name: true

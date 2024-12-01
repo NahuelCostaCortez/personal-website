@@ -1,6 +1,6 @@
 ---
 title: Medical
-summary: Diagnosis and treatment of medical Problems
+summary: Diagnosis and treatment of medical problems
 tags:
   - Medical
 date: ''
@@ -10,7 +10,7 @@ weight: 20
 external_link: ''
 
 image:
-  caption: Photo generated with Stable Difussion
+  caption: Photo generated with Stable Difussion 1.5
   focal_point: Smart
 
 #links:
