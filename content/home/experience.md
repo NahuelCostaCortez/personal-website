@@ -39,7 +39,8 @@ experience:
         * [Data Visualization](https://www.uniovi.es/en/estudia/grados/ingenieria/datos/-/fof/asignatura/GCINGD01-3-006)
         * [Algorithmics](https://www.uniovi.es/en/estudia/grados/ingenieria/tecnologiasinformacion/-/fof/asignatura/GIITIN01-2-001)
 
-        >[Apuntes de minería de texto 🇪🇸](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
+        >[Apuntes de redes generativas 🇪🇸](https://github.com/NahuelCostaCortez/RedesGenerativas) 
+        <br><br>[Apuntes de minería de texto 🇪🇸](https://nahuelcosta.notion.site/Miner-a-de-Texto-dac689534d8043639a54de9bc93203bb)
         <br><br>[Apuntes de algoritmia 🇪🇸](https://nahuels-organization.gitbook.io/algoritmia)
 
         Innovation Projects: 

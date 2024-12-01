@@ -11,9 +11,9 @@ address:
   region: Asturias
   postcode: '33203'
   country: Spain
-
+ 
 #summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: Will update soon! <br><br> 🇪🇸 **Andrés Torrubia** <br><br> - Ingeniero de telecomunicaciones y emprendedor destacado en inteligencia artificial (IA). <br><br> - Cofundador de Medbravo, empresa que aplica IA en investigación biomédica. <br><br> - Reconocido en competiciones internacionales de conducción autónoma (llegando a ocupar el primer puesto en Kaggle España y TOP 0.1 % mundial). <br><br> - Ha participado en TEDx y canales de divulgación como dotCSV. <br><br><br><br>**Aurelia Bustos**<br><br> - Oncóloga <br><br> - Ingeniera informática e investigadora en la aplicación de IA en el tratamiento del cáncer. <br><br> - Co-fundadora de Medbravo. <br><br> - Ha recibido la Orden del Mérito Civil y la Distinción al Mérito Científico por la Generalidad Valenciana. <br><br><br><br> 🇬🇧 **Andrés Torrubia** <br><br> - Telecommunications engineer and leading AI entrepreneur. <br><br> - Co-founder of Medbravo, a company that applies AI to biomedical research. <br><br> - Recognised in international autonomous driving competitions (first place in Kaggle Spain and TOP 0.1% worldwide). <br><br> - He has participated in TEDx and outreach channels such as dotCSV. <br><br><br><br>**Aurelia Bustos** <br><br> - Oncologist <br><br>- Computer engineer and researcher in the application of AI in cancer treatment. <br><br> - Co-founder of Medbravo. <br><br> - She has received the Order of Civil Merit and the Distinction for Scientific Merit from the Generalitat Valenciana.
+abstract: <br><br> 🇪🇸 **Andrés Torrubia** <br><br> - Ingeniero de telecomunicaciones y emprendedor destacado en inteligencia artificial (IA). <br><br> - Cofundador de Medbravo, empresa que aplica IA en investigación biomédica. <br><br> - Reconocido en competiciones internacionales de conducción autónoma (llegando a ocupar el primer puesto en Kaggle España y TOP 0.1 % mundial). <br><br> - Ha participado en TEDx y canales de divulgación como dotCSV. <br><br><br><br>**Aurelia Bustos**<br><br> - Oncóloga <br><br> - Ingeniera informática e investigadora en la aplicación de IA en el tratamiento del cáncer. <br><br> - Co-fundadora de Medbravo. <br><br> - Ha recibido la Orden del Mérito Civil y la Distinción al Mérito Científico por la Generalidad Valenciana. <br><br><br><br> 🇬🇧 **Andrés Torrubia** <br><br> - Telecommunications engineer and leading AI entrepreneur. <br><br> - Co-founder of Medbravo, a company that applies AI to biomedical research. <br><br> - Recognised in international autonomous driving competitions (first place in Kaggle Spain and TOP 0.1% worldwide). <br><br> - He has participated in TEDx and outreach channels such as dotCSV. <br><br><br><br>**Aurelia Bustos** <br><br> - Oncologist <br><br>- Computer engineer and researcher in the application of AI in cancer treatment. <br><br> - Co-founder of Medbravo. <br><br> - She has received the Order of Civil Merit and the Distinction for Scientific Merit from the Generalitat Valenciana.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +40,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: ''
-#url_pdf: uploads/IABiomedica.pdf
+#url_pdf: 
 #url_video: ''
 
 # Markdown Slides (optional).
@@ -56,3 +56,4 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 ---
+{{< youtube Hq4tmujcnjI >}}
