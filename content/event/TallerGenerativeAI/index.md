@@ -1,5 +1,5 @@
 ---
-title: Image generation with Artificial Intelligence
+title: Generación de imágenes con Inteligencia Artificial
 
 location: Instituto Asturiano de Administración Pública Adolfo Posada
 address:
@@ -38,8 +38,8 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: ''
-#url_pdf: uploads/IABiomedica.pdf
-#url_slides: uploads/IABiomedica.pdf
+url_pdf: uploads/IAAP_links.pdf
+url_slides: uploads/IAAP.pdf
 #url_video: ''
 
 # Markdown Slides (optional).

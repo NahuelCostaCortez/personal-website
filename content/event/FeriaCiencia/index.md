@@ -1,5 +1,5 @@
 ---
-title: Learn how to create a realistic and intelligent NPC
+title: Aprende a crear un NPC realista e inteligente
 
 location: Feria de la Ciencia y la Innovación de Asturias
 address:

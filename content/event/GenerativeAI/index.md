@@ -1,5 +1,5 @@
 ---
-title: Generative AI - Benefits and Limitations
+title: IA Generativa - Beneficios y limitaciones
 
 #event: AI & Biomedicine
 #event_url: https://example.org

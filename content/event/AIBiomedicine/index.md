@@ -1,5 +1,5 @@
 ---
-title: AI & Biomedicine
+title: Aplicaciones de la IA en biomedicina
 
 #event: AI & Biomedicine
 #event_url: https://example.org

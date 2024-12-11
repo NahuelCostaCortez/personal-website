@@ -1,5 +1,5 @@
 ---
-title: "🇪🇸 Jornada Divulgativa Cátedra TotalEnergies | IA: Presente, futuro y aplicaciones a la sociedad"
+title: "Jornada Divulgativa Cátedra TotalEnergies | IA: Presente, futuro y aplicaciones a la sociedad"
 
 location: EPI Gijón
 address:

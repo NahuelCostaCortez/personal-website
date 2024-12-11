@@ -1,5 +1,5 @@
 ---
-title: ChatGPT and other generative AIs
+title: ChatGPT and otras IAs generativas
 
 #event: AI & Biomedicine
 #event_url: https://example.org
