@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
@@ -20,3 +20,36 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+
+es:
+  languageCode: es
+  contentDir: content/es
+  title: Nahuel Costa
+#  params:
+#    description: Site description in Chinese...
+  menu:
+    main:
+    - name: Home
+      url: '#about'
+      weight: 10
+    - name: Projectos
+      url: '#projects'
+      weight: 30
+    - name: Publicaciones
+      url: '#publications'
+      weight: 50
+    #- name: Posts
+    #  url: '#posts'
+    #  weight: 50
+    - name: Charlas y Cursos
+      url: '#talks'
+      weight: 40
+    - name: Recursos de ML
+      url: https://nahuelcosta.notion.site/Resources-8ff959dd7be94b7e87cb4826c23b4a41?pvs=4
+      weight: 60
+    - name: Templates de Notion
+      url: https://nahuelcosta.notion.site/Templates-4872791b0e6f435b8d21a913a94b12db
+      weight: 60
+    - name: Contacto
+      url: '#contact'
+      weight: 70
